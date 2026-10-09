@@ -125,6 +125,7 @@ export default function Overview() {
             </div>
 
             <Button
+              className={styles.heroSettingsBtn}
               variant="secondary"
               size="sm"
               leftIcon={<Settings size={14} />}

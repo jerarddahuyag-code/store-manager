@@ -1,0 +1,11 @@
+.layout {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.layout-content {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
